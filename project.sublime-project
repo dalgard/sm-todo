@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-workspace",
+				"*.map",
+				"*.min.*",
+				".babelrc",
+				".gitignore",
+				".npmrc",
+				"/*.json",
+				"/*.js"
+			],
+			"folder_exclude_patterns":
+			[
+				".git",
+				".idea",
+				".sass-cache",
+				"node_modules",
+				"build",
+				"config",
+				"server",
+				"typings",
+				"webpack"
+			],
+			"follow_symlinks": false,
+			"path": "."
+		}
+	]
+}
